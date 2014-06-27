@@ -13,7 +13,7 @@
     "homepage": "http://codemirror.net",
     "maintainers":[{"name": "Marijn Haverbeke",
                     "email": "marijnh@gmail.com",
-                    "web": "http://marijnhaverbeke.nl"}], //tempo
+                    "web": "http://marijnhaverbeke.nl"}], //tempppppo
     "repositories": [{"type": "git",
                       "url": "http://marijnhaverbeke.nl/git/codemirror"},
                      {"type": "git",
